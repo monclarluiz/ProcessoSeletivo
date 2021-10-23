@@ -2,3 +2,4 @@
 *.xlsx linguist-detectable=false
 *.txt linguist-detectable=false
 *.pbix linguist-detectable=false
+*.sql linguist-detectable=true
