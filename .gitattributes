@@ -1,0 +1,4 @@
+*.html linguist-detectable=false
+*.xlsx linguist-detectable=false
+*.txt linguist-detectable=false
+*.pbix linguist-detectable=false
