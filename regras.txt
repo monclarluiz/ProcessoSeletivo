@@ -1,0 +1,29 @@
+Considere que o Marcos, diretor de vendas da empresa, solicitou a você uma análise sobre a performance geral da empresa.
+A análise será reportada para o CEO da empresa e também para nossos investidores.
+
+O Marcos quer entender, principalmente, 3 pontos:
+
+1. Como evoluíram as vendas da empresa ao longo do tempo, em receita (compromissos) e toneladas, fazendo as divisões por:
+- Estado
+- Tipo de material
+- Tipo de contrato
+O objetivo desse item é entender as relações entre receita e massa, bem como suas relações com estados, tipos de material e contratos. Posteriormente, será tomada alguma decisão estratégica sobre o direcionamento de esforços comerciais em um estado específico.
+
+2. O que aconteceu com o preço médio da tonelada praticado pela empresa ao longo do tempo, fazendo as divisões por:
+- Estado
+- Tipo de material
+- Tipo de contrato
+O objetivo desse item é entender se podemos tomar alguma decisão estratégica sobre o preço médio da tonelada, de forma que isso possa alavancar os resultados de vendas da empresa.
+
+3. Quais são as principais características das vendas realizadas diretamente pelo site, em termos de:
+- Preço médio da tonelada
+- Volume de toneladas
+- Receita
+O objetivo dessa análise é entender como o nosso site está performando e qual é o perfil dos clientes que fecham contratos por lá.
+
+Algumas dicas:
+- Preze pela clareza e vá direto aos pontos mais importantes. A análise será lida por pessoas de cargos estratégicos.
+- O storytelling é muito importante para que a sua análise faça sentido.
+- Apresentação em formato livre.
+
+Boa sorte! :) 
